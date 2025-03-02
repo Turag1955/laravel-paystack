@@ -1,6 +1,7 @@
 {
-    "name": "unicodeveloper/laravel-paystack",
+    "name": "turag1955/laravel-paystack",
     "description": "A Laravel Package for Paystack",
+    "type": "library",
     "keywords": [
         "php",
         "github",
@@ -25,7 +26,8 @@
             "email": "info@devfunsho.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^7.2|^8.0|^8.1|^8.2|^8.3|^8.4",
         "illuminate/support": "~6|~7|~8|~9|^10.0|^11.0|^12.0",
